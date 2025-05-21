@@ -36,7 +36,7 @@ export default function Home() {
           />
           <ol>
             <li>
-              First change
+              Second change
             </li>
             <li>Save and see your changes instantly.</li>
           </ol>
